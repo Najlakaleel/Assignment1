@@ -1,0 +1,23 @@
+div{
+    margin: none;
+    box-sizing: border-box;
+    width: 700px;
+}
+div.header{
+    height: 100px;
+    width: 700px;
+    background-color: blue;
+    color: white;
+    font-family: Algerian;
+    text-align: center;
+    padding: 15px;
+}
+div.content{
+    height: 400px;
+    width: 700px;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    text-align: justify;
+} 
+
